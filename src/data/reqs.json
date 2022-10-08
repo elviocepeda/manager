@@ -1,0 +1,53 @@
+{
+  "holidays": [
+    {
+      "addressee": "Carlos Ever Velazquez",
+      "addresseePosition": "Director de Tecnología",
+      "requester": "Elvio Cepeda",
+      "requesterPosition": "Frontend Developer",
+      "startDate": "2022-10-18",
+      "endDate": "2022-10-25"
+    }
+  ],
+  "payRise": [
+    {
+      "addressee": "Carlos Ever Velazquez",
+      "requester": "Elvio Cepeda",
+      "antiquity": "2",
+      "reason": "Estimo prudente solicitar un aumento de sueldo por el volumen creciente de tareas y responsabilidades que estoy incorporando en el último tiempo."
+    }
+  ],
+  "changeRol": [
+    {
+      "rol": "admin",
+      "addressee": "Carlos Ever Velazquez",
+      "requester": "Elvio Cepeda",
+      "reason": "Estimo prudente solicitar el cambio de rol de usuario que me fue asignado por default al de administrador."
+    }
+  ],
+  "newUser": [
+    {
+      "addressee": "Carlos Ever Velazquez",
+      "requester": "Elvio Cepeda",
+      "reason": "Estimo prudente solicitar un aumento de sueldo por el volumen creciente de tareas y responsabilidades que estoy incorporando en el último tiempo."
+    }
+  ],
+  "complaints": [
+    {
+      "anonymous": true,
+      "addressee": "Carlos Ever Velazquez",
+      "requester": "Elvio Cepeda",
+      "antiquity": "2",
+      "reason": "Cuento con 2 años trabajando para la empresa en el área de administración. Considero que esta empresa tiene valores y promueve la justicia, la equidad y el respeto, por eso solicito una investigación en relación al clima laboral que se vive.."
+    }
+  ],
+  "suggestions": [
+    {
+      "anonymous": true,
+      "addressee": "Carlos Ever Velazquez",
+      "requester": "Elvio Cepeda",
+      "antiquity": "2",
+      "reason": "Por medio de la presente, extiendo mi recomendación personal a [nombre completo del recomendado], quien a lo largo de 4 años que llevamos de conocernos, ha mostrado ser una persona íntegra, responsable y trabajadora."
+    }
+  ]
+}

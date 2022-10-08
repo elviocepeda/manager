@@ -1,0 +1,29 @@
+.molecules-products_container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-gap: 1rem;
+  border: 1px solid red;
+}
+
+.molecules-productcard_container {
+  height: 12em;
+  border: 1px solid red;
+}
+
+@media screen and (max-width: 350px) {
+  .molecules-products_container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-gap: 0.1rem;
+    border: 1px solid red;
+  }
+
+  .molecules-productcard_container {
+    height: 7rem;
+    overflow: hidden;
+    border: 1px solid red;
+  }
+}

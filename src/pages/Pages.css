@@ -1,0 +1,5 @@
+.pages_container {
+    height: 100%;
+    padding: 0.5rem;
+    background-color: var(--light);
+}

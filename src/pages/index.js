@@ -1,0 +1,12 @@
+import "./Pages.css";
+export { Login } from "./Login";
+export { Register } from "./Register";
+export { Home } from "./Home";
+export { Start } from "./Start";
+export { Dashboard } from "./Dashboard";
+export { NotFound } from "./NotFound";
+export { Products } from "./Products";
+export { Employees } from "./Employees";
+export { Profile } from "./Profile";
+export { SetPassword } from "./SetPassword";
+export { ForgotPassword } from "./ForgotPassword";

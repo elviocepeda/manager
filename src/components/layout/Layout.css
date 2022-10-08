@@ -1,0 +1,11 @@
+.layout_container {
+  background-color: var(--lighter);
+}
+
+.layout-content_container {
+  display: flex;
+}
+
+.layout-children_container {
+  width: 100%;
+}
